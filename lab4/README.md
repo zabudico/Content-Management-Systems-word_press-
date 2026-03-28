@@ -2,7 +2,7 @@
 
 **Студент:** Zabudico Alexandr  
 **Плагин:** USM Tasks — задачи с приоритетами и дедлайном  
-**Репозиторий:** `https://github.com/zabudico/university-labs/tree/lab4`
+**Репозиторий:** `https://github.com/zabudico/Content-Management-Systems-word_press-/edit/lab4/lab4/README.md`
 
 ---
 
